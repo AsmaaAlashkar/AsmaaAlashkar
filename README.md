@@ -15,9 +15,9 @@
 - 👨‍💻 **Skilled in:** Angular, .NET Core, PrimeNG, Angular Material, Tailwind CSS, SQL Server, and RESTful APIs.  
 - 💡 **Interested in:** UI/UX Design, Cloud Technologies (Azure, AWS), and Architectural Patterns (SOLID, Onion, N-Tier).  
 - 🚀 **Projects:**  
-  - **[Basic Standards for Rounds and Inspections](https://github.com/AsmaAlashkar/BasicStandardsForRoundsAndInspections.git)** (Angular, .NET Core API)  
+  - **[Home Food Delivery (Khaltabita)](https://github.com/asmaa-alashkar/Khaltabita-ITI-GP.git)** (Angular, Web API, SQL Server)
   - **[E-commerce Store Web App](https://github.com/AsmaaAlashkar/e-commerce-store-web-app.git)** (Angular, Tailwind CSS, FakeStore API)  
-  - **[Home Food Delivery (Khaltabita)](https://github.com/asmaa-alashkar/Khaltabita-ITI-GP.git)** (Angular, Web API, SQL Server)  
+  - **[Basic Standards for Rounds and Inspections](https://github.com/AsmaAlashkar/BasicStandardsForRoundsAndInspections.git)** (Angular, .NET Core API)  
 
 
 ### Connect with Me :
